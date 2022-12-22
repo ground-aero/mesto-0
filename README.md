@@ -21,8 +21,9 @@
 - [к ПР#4](https://concrete-web-bad.notion.site/4-cf8a0bbad14c4327ac51192c33a04fcd)
 - [к ПР#5](https://concrete-web-bad.notion.site/5-05e706b22e584b63b85c7187db302ac8)
 - [к ПР#6](https://concrete-web-bad.notion.site/6-52aad679d21241f69cd4306afb252e8b)
+- [к ПР#7](https://concrete-web-bad.notion.site/7-4299b53424754ec2af360e8463e37e9a)
 - [к ПР#8](https://concrete-web-bad.notion.site/8-b4da86cf48854922bef2b0525d74c7cf)
 
 **Проект "Место"**
 
-- [Ссылка на сайт](https://ground-aero.github.io/mesto/)
+- [Ссылка на сайт](https://ground-aero.github.io/mesto-0/)
